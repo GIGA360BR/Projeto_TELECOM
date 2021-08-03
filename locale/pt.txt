@@ -1,0 +1,40 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Projeto Inspeção de Torre Telecom
+
+### Title
+tour.name = Projeto TELECOM
+
+## Media
+
+### Title
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B.label = Álbum de Fotos Antena Redonda
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_0.label = Antena Redonda
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_1.label = Antenas RF Setor1
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_10.label = IMG_8265
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_11.label = IMG_8268
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_12.label = IMG_8278
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_13.label = IMG_8279
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_2.label = Campo de Futebol com Grade
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_3.label = DJI_0841
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_4.label = DJI_0901
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_5.label = DJI_0927
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_6.label = DJI_0940
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_7.label = Equipamentos Torre
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_8.label = IMG_8254
+album_1FD87E77_0B79_1E94_41A2_E75D072F745B_9.label = IMG_8262
+panorama_007A4F4D_0AC9_1EF7_41A2_F3AC6E2218D6.label = TORRE CELULAR
+video_1872223C_0B49_6695_41A1_CFBA113B8E73.label = Video torre
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_060310CF_0AD7_E3F4_41A4_DEF3B87D6D25.toolTip = Campo de Futebol
+
+## Action
+
+### URL
+LinkBehaviour_1AA748CC_0B39_E3F4_4181_F30286F89294.source = https://www.instagram.com/giga360br/
